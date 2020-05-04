@@ -1,5 +1,3 @@
-# D3-challenge
-Homework repo for D3.
 D3 Homework - Data Journalism and D3
 
 
@@ -84,3 +82,6 @@ Professionalism
 
 
 Good luck!
+
+Copyright
+Trilogy Education Services © 2019. All Rights Reserved.
